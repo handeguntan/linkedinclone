@@ -1,1 +1,1 @@
-#Patika.dev linkedinclone ödevi
+# Patika.dev linkedinclone ödevi
